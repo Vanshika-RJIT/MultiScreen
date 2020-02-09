@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="previous1">Previous</string>
+    <string name="previous2">Previous</string>
+    <string name="next1">Next</string>
+    <string name="next2">Next</string>
+</resources>
